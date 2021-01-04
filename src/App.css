@@ -1,0 +1,8 @@
+body{
+  background-color: aliceblue;
+  font-family: 'Xanh Mono', monospace;
+}
+.App{
+  width: 90%;
+  margin: 0 auto;
+}
