@@ -47,8 +47,7 @@ toblog.push({blogCategory:blogCategory,blogTitle:blogTitle,postedOn:postedOn,aut
     name="image"
     id="file"
     accept=".jpeg, .png,.jpg"
-    onChange={e=>Change(e)}
-    />
+    onChange={e=>Change(e)} />
   <br/>
     <input
         value={blogCategory}
