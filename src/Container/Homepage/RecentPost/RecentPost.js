@@ -14,7 +14,7 @@ console.log(data)
   return(
     
     <div style={{width:"70%"}}>
-    <Card style={{marginBottom:"20px"}}>
+    <Card style={{marginBottom:"20px",width:'100%'}}>
         <div className="postImageWrapper">
         <img src={require('../../../images/'+data[2].blogImage).default} alt="main" ></img>
         </div>

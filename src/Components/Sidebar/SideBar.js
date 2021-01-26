@@ -19,7 +19,7 @@ const SideBar = (props) => {
 
   return(
     <div className="sidebar">
-   <Card style={{marginBottom:"20px",padding:'20px',boxSizing:'border-box'}}>
+   <Card style={{marginBottom:"20px",width:'100%',padding:'20px',boxSizing:'border-box'}}>
        <div className="cardHeader">
          <span>
            About US

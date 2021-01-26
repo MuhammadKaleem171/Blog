@@ -1,6 +1,8 @@
+
 .gallaryPost{
     display: flex;
     justify-content: space-between;
+
 }
 .sideImageWrapper div{
     width: 100%;
@@ -13,4 +15,6 @@
     display: flex;
     justify-content: space-between;
     margin: 20px 0;
+    width: 90vw;
+    overflow: hidden;
 }
