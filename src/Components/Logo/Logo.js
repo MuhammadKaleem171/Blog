@@ -8,7 +8,8 @@ import './Logo.styles.css'
 const Logo = (props) => {
   return(
     <div className="logo">
-        <img src={image} width='100%'/>
+        <a href="#"> Malik kaleem </a>
+        <h1>❤️  </h1>
          </div>
    )
 

@@ -21,7 +21,7 @@ return(
              <section style={{width:'70vw'}}>
                  <div style={{height:'450px'}}>
                      <a href="post/fitness-mantra-to-live-fit-life">
-                     <img src={require('../../images/index1.jpg').default}  style={{maxWidth:'100%',height:'100%'}}></img>
+                     <img src={require('../../images/index1.jpg').default}  style={{maxWidth:'100%',height:'100%',width:"99.5%"}}></img>
                      </a>
                  </div>
              </section>
